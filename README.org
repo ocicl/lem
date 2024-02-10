@@ -1,0 +1,9 @@
+* lem
+
+Common Lisp editor/IDE with high expansibility
+
+|---------+--------------------------------------------|
+| source  | git:https://github.com/lem-project/lem.git |
+| commit  | e366bda                                    |
+| systems | lem                                        |
+|---------+--------------------------------------------|
