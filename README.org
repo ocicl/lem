@@ -2,8 +2,8 @@
 
 Common Lisp editor/IDE with high expansibility
 
-|---------+--------------------------------------------|
-| source  | git:https://github.com/lem-project/lem.git |
-| commit  | e366bda                                    |
-| systems | lem                                        |
-|---------+--------------------------------------------|
+|---------+----------------------------------------|
+| source  | git:https://github.com/atgreen/lem.git |
+| commit  | 4c73f1f                                |
+| systems | lem-ncurses lem                        |
+|---------+----------------------------------------|
