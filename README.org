@@ -5,5 +5,5 @@ Common Lisp editor/IDE with high expansibility
 |---------+----------------------------------------|
 | source  | git:https://github.com/atgreen/lem.git |
 | commit  | d97debe                                |
-| systems | lem-ncurses lem-base16-themes lem      |
+| systems | lem-ncurses lem                        |
 |---------+----------------------------------------|
